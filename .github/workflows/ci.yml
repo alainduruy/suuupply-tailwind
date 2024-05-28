@@ -15,8 +15,8 @@ jobs:
           params: ""
       - name: Commit & Push
         run: |
-          git config user.name "GitHub"
-          git config user.email "noreply@github.com"
+          git config user.name "alainduruy"
+          git config user.email "alainduruy@gmail.com"
           git diff-index --quiet HEAD || git commit -m "ci: tailwindcss-update"
           git push
   lhci:
