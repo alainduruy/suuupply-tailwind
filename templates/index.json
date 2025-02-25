@@ -17,7 +17,7 @@
         "description": "{{ section.settings.collection.description }}",
         "show_description": true,
         "description_style": "body",
-        "collection": "meilleurs-ventes",
+        "collection": "meilleures-ventes",
         "products_to_show": 8,
         "columns_desktop": 4,
         "full_width": false,
